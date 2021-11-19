@@ -1,7 +1,7 @@
 # Data Analysis and Data Mining 
 ## Exercises for SH MSc Computer Science Enineering Class 2021
 
-### Practical class lecturer: Dr. Baksáné Dr. Varga Erika <vargae@iit.uni-miskolc.hu>
+### Practical class lecturer: [Dr. Baksáné Dr. Varga Erika](mailto:vargae@iit.uni-miskolc.hu)
 ### Theoretical class lecturer: [Dr. Kovács László](mailto:kovacs@iit.uni-miskolc.hu)
 ### Student: Eysa Nemeh
 ### Neptun ID: SQKW6X
