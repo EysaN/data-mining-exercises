@@ -1,0 +1,1001 @@
+gender,age,education,salary
+male,36,PhD,2297
+male,55,Associate Prof,1134
+male,61,Associate Prof,4969
+female,29,Master,902
+female,34,Master,3574
+female,42,Assistant Prof,2761
+male,53,Prof,1484
+female,41,Assistant Prof,3809
+male,47,Prof,2065
+male,31,Master,1020
+male,47,Prof,1950
+female,40,Assistant Prof,4387
+female,41,Assistant Prof,1830
+female,46,Prof,2182
+male,51,Prof,3460
+female,57,Associate Prof,662
+male,33,Master,1134
+male,41,Assistant Prof,1020
+male,46,Prof,779
+female,32,Master,3228
+female,57,Associate Prof,3228
+female,26,Master,1360
+male,59,Associate Prof,3460
+female,55,Associate Prof,3110
+male,51,Prof,1601
+male,63,Associate Prof,2414
+male,62,Associate Prof,4390
+female,37,PhD,1134
+female,63,Associate Prof,2414
+female,20,Bacholar,3809
+male,63,Associate Prof,1252
+female,54,Prof,2764
+male,58,Associate Prof,662
+male,18,School,1484
+male,29,Master,1833
+female,61,Associate Prof,785
+female,51,Prof,2297
+female,22,Bacholar,1134
+male,36,PhD,670
+female,62,Associate Prof,779
+male,54,Prof,2182
+male,55,Associate Prof,2761
+male,55,Associate Prof,2414
+female,42,Assistant Prof,556
+female,41,Assistant Prof,2646
+female,43,Assistant Prof,1601
+male,24,Master,2179
+female,44,Assistant Prof,1484
+male,42,Assistant Prof,2065
+male,54,Prof,1950
+male,34,Master,902
+female,32,Master,1601
+female,28,Master,4155
+female,18,School,785
+male,64,Associate Prof,670
+female,44,Assistant Prof,2878
+male,56,Associate Prof,2297
+male,54,Prof,3806
+male,23,Bacholar,4390
+female,42,Assistant Prof,4505
+female,64,Associate Prof,2300
+female,57,Associate Prof,1134
+male,20,Bacholar,2297
+female,37,PhD,2761
+male,45,Assistant Prof,3691
+male,45,Assistant Prof,2646
+male,27,Master,1366
+female,43,Assistant Prof,3342
+female,20,Bacholar,1833
+female,28,Master,4041
+male,60,Associate Prof,1830
+female,34,Master,1948
+male,21,Bacholar,3225
+male,50,Prof,1833
+male,31,Master,2414
+female,26,Master,3809
+female,59,Associate Prof,1716
+female,21,Bacholar,2996
+male,61,Associate Prof,2182
+female,47,Prof,2182
+male,30,Master,1830
+male,19,Bacholar,2993
+male,56,Associate Prof,2646
+female,49,Prof,4390
+female,39,PhD,1366
+female,64,Associate Prof,3228
+male,53,Prof,2878
+female,28,Master,2646
+male,62,Associate Prof,1833
+male,57,Associate Prof,670
+male,55,Associate Prof,2056
+female,25,Master,1484
+female,31,Master,4969
+female,34,Master,3228
+male,47,Prof,1601
+female,40,Assistant Prof,1598
+male,32,Master,4969
+male,32,Master,2646
+male,56,Associate Prof,2182
+female,19,Bacholar,1484
+female,45,Assistant Prof,1484
+female,60,Associate Prof,1833
+male,37,PhD,1484
+female,36,PhD,662
+male,59,Associate Prof,2414
+male,48,Prof,4622
+male,56,Associate Prof,2878
+female,52,Prof,1950
+female,25,Master,2878
+female,51,Prof,1134
+male,30,Master,1252
+female,46,Prof,2297
+male,45,Assistant Prof,2182
+male,44,Assistant Prof,1598
+male,49,Prof,3228
+female,50,Prof,1011
+female,26,Master,2761
+female,30,Master,902
+male,21,Bacholar,1020
+female,48,Prof,3113
+male,37,PhD,2878
+male,28,Master,3228
+male,29,Master,3225
+female,28,Master,2529
+female,64,Associate Prof,894
+female,44,Assistant Prof,1020
+male,63,Associate Prof,670
+female,37,PhD,4158
+male,18,School,1598
+male,60,Associate Prof,2878
+male,22,Bacholar,2182
+female,62,Associate Prof,2414
+female,58,Associate Prof,1128
+female,41,Assistant Prof,2406
+male,19,Bacholar,2878
+female,21,Bacholar,1017
+male,43,Assistant Prof,2529
+male,53,Prof,556
+male,43,Assistant Prof,1475
+female,32,Master,2182
+female,43,Assistant Prof,2411
+female,26,Master,2996
+male,38,PhD,2878
+female,62,Associate Prof,667
+male,33,Master,1716
+male,29,Master,3110
+male,46,Prof,3691
+female,39,PhD,3342
+female,44,Assistant Prof,2065
+female,41,Assistant Prof,2646
+male,49,Prof,2529
+female,58,Associate Prof,1360
+male,55,Associate Prof,3923
+male,54,Prof,2878
+male,51,Prof,1252
+female,34,Master,1950
+female,19,Bacholar,2065
+female,51,Prof,3460
+male,44,Assistant Prof,1950
+female,30,Master,3228
+male,32,Master,1716
+male,52,Prof,779
+male,33,Master,3228
+female,25,Master,3228
+female,36,PhD,894
+female,27,Master,3923
+male,59,Associate Prof,2182
+female,38,PhD,662
+male,54,Prof,4041
+male,58,Associate Prof,2297
+male,63,Associate Prof,2993
+female,50,Prof,902
+female,32,Master,779
+female,58,Associate Prof,4622
+male,21,Bacholar,902
+female,39,PhD,902
+male,21,Bacholar,2646
+male,31,Master,1475
+male,44,Assistant Prof,902
+female,49,Prof,2532
+female,35,PhD,902
+female,30,Master,2764
+male,49,Prof,4041
+female,61,Associate Prof,1252
+male,31,Master,2065
+male,38,PhD,4041
+male,22,Bacholar,2297
+female,23,Bacholar,662
+female,48,Prof,3809
+female,34,Master,1484
+male,33,Master,2182
+female,43,Assistant Prof,3460
+male,43,Assistant Prof,902
+male,36,PhD,1716
+male,34,Master,1716
+female,56,Associate Prof,1833
+female,18,School,1366
+female,51,Prof,3809
+male,34,Master,902
+female,50,Prof,2179
+male,18,School,1716
+male,44,Assistant Prof,2764
+male,46,Prof,2761
+female,35,PhD,4508
+female,55,Associate Prof,2764
+female,31,Master,902
+male,20,Bacholar,3574
+female,58,Associate Prof,4390
+male,23,Bacholar,5086
+male,37,PhD,2414
+male,39,PhD,1484
+female,22,Bacholar,3345
+female,22,Bacholar,5318
+female,50,Prof,2646
+male,25,Master,2062
+female,61,Associate Prof,3694
+male,18,School,1020
+male,53,Prof,1020
+male,37,PhD,1478
+female,38,PhD,1601
+female,50,Prof,1948
+female,59,Associate Prof,2993
+male,23,Bacholar,1366
+female,32,Master,3228
+male,40,Assistant Prof,3113
+male,47,Prof,1716
+male,26,Master,902
+female,24,Master,2761
+female,54,Prof,3228
+female,41,Assistant Prof,2414
+male,58,Associate Prof,1011
+female,50,Prof,2996
+male,29,Master,670
+male,55,Associate Prof,1366
+male,64,Associate Prof,2297
+female,23,Bacholar,1716
+female,55,Associate Prof,2065
+female,49,Prof,1948
+male,40,Assistant Prof,1475
+female,50,Prof,3228
+male,63,Associate Prof,1824
+male,43,Assistant Prof,1598
+male,48,Prof,2643
+female,30,Master,1598
+female,63,Associate Prof,788
+female,64,Associate Prof,2646
+male,59,Associate Prof,667
+female,33,Master,1598
+male,62,Associate Prof,2179
+male,60,Associate Prof,670
+male,60,Associate Prof,2761
+female,35,PhD,3809
+female,24,Master,2761
+female,29,Master,1484
+male,18,School,1716
+female,25,Master,3923
+male,57,Associate Prof,1716
+male,28,Master,3574
+male,44,Assistant Prof,3574
+female,53,Prof,2646
+female,63,Associate Prof,2182
+female,44,Assistant Prof,1716
+male,58,Associate Prof,1369
+female,20,Bacholar,894
+male,24,Master,2062
+male,25,Master,2065
+male,46,Prof,3809
+female,57,Associate Prof,2179
+female,57,Associate Prof,1252
+female,36,PhD,3923
+male,51,Prof,5435
+female,59,Associate Prof,1366
+male,21,Bacholar,2646
+male,41,Assistant Prof,4854
+male,33,Master,5086
+female,57,Associate Prof,3228
+female,47,Prof,902
+female,41,Assistant Prof,1833
+male,58,Associate Prof,1369
+female,50,Prof,788
+male,54,Prof,3110
+male,52,Prof,2065
+male,54,Prof,3574
+female,35,PhD,3923
+female,18,School,785
+female,45,Assistant Prof,2182
+male,58,Associate Prof,2414
+female,25,Master,2643
+male,19,Bacholar,2297
+male,27,Master,1948
+male,43,Assistant Prof,2646
+female,23,Bacholar,3110
+female,39,PhD,1252
+female,41,Assistant Prof,4390
+male,37,PhD,4041
+female,52,Prof,1707
+male,52,Prof,1948
+male,44,Assistant Prof,2643
+male,33,Master,2056
+female,43,Assistant Prof,1020
+female,19,Bacholar,2529
+female,21,Bacholar,2529
+male,37,PhD,1716
+female,46,Prof,670
+male,50,Prof,1252
+male,37,PhD,902
+male,30,Master,1601
+female,37,PhD,1716
+female,49,Prof,3110
+female,19,Bacholar,2414
+male,42,Assistant Prof,4158
+female,62,Associate Prof,1126
+male,42,Assistant Prof,4505
+male,21,Bacholar,1369
+male,25,Master,896
+female,33,Master,1598
+female,20,Bacholar,2179
+female,59,Associate Prof,2996
+male,62,Associate Prof,1020
+female,22,Bacholar,2761
+male,40,Assistant Prof,3113
+male,50,Prof,3228
+male,62,Associate Prof,662
+female,33,Master,1369
+female,23,Bacholar,3345
+female,51,Prof,1833
+male,36,PhD,1369
+female,61,Associate Prof,1716
+male,60,Associate Prof,1252
+male,56,Associate Prof,1011
+male,58,Associate Prof,2646
+female,20,Bacholar,1710
+female,60,Associate Prof,3110
+female,46,Prof,1252
+male,55,Associate Prof,1252
+female,61,Associate Prof,4622
+male,28,Master,2878
+male,44,Assistant Prof,4273
+male,54,Prof,1833
+female,35,PhD,4276
+female,62,Associate Prof,1710
+female,28,Master,3691
+male,42,Assistant Prof,1252
+female,53,Prof,553
+male,25,Master,1833
+male,57,Associate Prof,2761
+male,60,Associate Prof,1601
+female,34,Master,1134
+female,19,Bacholar,2065
+female,49,Prof,3460
+male,35,PhD,2065
+female,55,Associate Prof,3457
+male,63,Associate Prof,1134
+male,46,Prof,2996
+male,55,Associate Prof,2065
+female,29,Master,1134
+female,28,Master,1948
+female,46,Prof,1592
+male,58,Associate Prof,3228
+female,28,Master,902
+male,31,Master,1252
+male,56,Associate Prof,2761
+male,43,Assistant Prof,1137
+female,26,Master,2179
+female,46,Prof,896
+female,41,Assistant Prof,1833
+male,50,Prof,1833
+female,58,Associate Prof,2179
+male,56,Associate Prof,2297
+male,49,Prof,3228
+male,20,Bacholar,3809
+female,31,Master,785
+female,61,Associate Prof,1137
+female,54,Prof,2878
+male,23,Bacholar,2764
+female,53,Prof,1833
+male,62,Associate Prof,902
+male,47,Prof,662
+male,43,Assistant Prof,1017
+female,30,Master,1716
+female,36,PhD,3923
+female,48,Prof,2878
+male,61,Associate Prof,2414
+female,45,Assistant Prof,894
+male,33,Master,1252
+male,31,Master,1833
+male,20,Bacholar,1134
+female,55,Associate Prof,2297
+female,24,Master,2878
+female,46,Prof,2878
+male,52,Prof,4387
+female,56,Associate Prof,670
+male,62,Associate Prof,1252
+male,58,Associate Prof,779
+male,42,Assistant Prof,2414
+female,53,Prof,3923
+female,18,School,3113
+female,62,Associate Prof,3577
+male,38,PhD,3110
+female,60,Associate Prof,1134
+male,49,Prof,2764
+male,18,School,1601
+male,28,Master,2878
+female,22,Bacholar,2414
+female,27,Master,3460
+female,42,Assistant Prof,1134
+male,31,Master,2878
+female,19,Bacholar,3574
+male,25,Master,553
+male,18,School,1020
+male,34,Master,1598
+female,44,Assistant Prof,2182
+female,42,Assistant Prof,3923
+female,46,Prof,2182
+male,35,PhD,1601
+female,53,Prof,2288
+male,30,Master,553
+male,60,Associate Prof,2179
+male,22,Bacholar,1598
+female,58,Associate Prof,1950
+female,47,Prof,2529
+female,33,Master,902
+male,64,Associate Prof,1252
+female,47,Prof,553
+male,56,Associate Prof,2294
+male,30,Master,902
+male,43,Assistant Prof,3345
+female,32,Master,3691
+female,31,Master,2065
+female,48,Prof,2414
+male,23,Bacholar,2179
+female,21,Bacholar,1484
+male,51,Prof,788
+male,18,School,3110
+male,34,Master,2529
+female,41,Assistant Prof,3460
+female,24,Master,902
+female,51,Prof,2414
+male,56,Associate Prof,1716
+female,56,Associate Prof,1252
+male,46,Prof,1134
+male,24,Master,1249
+male,63,Associate Prof,2993
+female,64,Associate Prof,2182
+female,45,Assistant Prof,1824
+female,57,Associate Prof,1716
+male,36,PhD,2414
+female,54,Prof,1366
+male,61,Associate Prof,553
+male,50,Prof,2414
+male,28,Master,2414
+female,62,Associate Prof,3923
+female,24,Master,1833
+female,53,Prof,3342
+male,30,Master,1017
+female,29,Master,1601
+male,18,School,3113
+male,58,Associate Prof,1481
+male,55,Associate Prof,1478
+female,32,Master,3342
+female,60,Associate Prof,1369
+female,22,Bacholar,902
+male,27,Master,1716
+female,39,PhD,2414
+male,23,Bacholar,1011
+male,21,Bacholar,2646
+male,51,Prof,3228
+female,34,Master,2878
+female,35,PhD,553
+female,54,Prof,2297
+male,63,Associate Prof,670
+female,39,PhD,1134
+male,19,Bacholar,3228
+male,59,Associate Prof,1833
+male,38,PhD,2297
+female,18,School,3809
+female,49,Prof,1592
+female,26,Master,3809
+male,56,Associate Prof,3110
+female,52,Prof,1134
+male,23,Bacholar,1948
+male,48,Prof,2646
+male,21,Bacholar,4041
+female,45,Assistant Prof,902
+female,32,Master,3574
+female,19,Bacholar,2179
+male,31,Master,785
+female,58,Associate Prof,2062
+male,35,PhD,3345
+male,34,Master,1366
+male,24,Master,4387
+female,54,Prof,3809
+female,44,Assistant Prof,1950
+female,59,Associate Prof,902
+male,61,Associate Prof,3691
+female,33,Master,2996
+male,47,Prof,2411
+male,50,Prof,1252
+male,35,PhD,2182
+female,62,Associate Prof,2182
+female,38,PhD,3923
+female,45,Assistant Prof,3228
+male,21,Bacholar,3228
+female,29,Master,3228
+male,42,Assistant Prof,2529
+male,47,Prof,2297
+male,53,Prof,1243
+female,42,Assistant Prof,2411
+female,64,Associate Prof,670
+female,29,Master,2643
+male,22,Bacholar,3345
+female,23,Bacholar,2179
+male,48,Prof,1484
+male,37,PhD,1478
+male,30,Master,4038
+female,23,Bacholar,2411
+female,32,Master,3345
+female,34,Master,670
+male,41,Assistant Prof,3345
+female,21,Bacholar,1716
+male,57,Associate Prof,3228
+male,42,Assistant Prof,3691
+male,51,Prof,785
+female,43,Assistant Prof,3577
+female,47,Prof,1716
+female,33,Master,4390
+male,40,Assistant Prof,4972
+female,43,Assistant Prof,670
+male,62,Associate Prof,902
+male,22,Bacholar,1475
+male,19,Bacholar,2065
+female,34,Master,2996
+female,30,Master,3923
+female,19,Bacholar,2529
+male,63,Associate Prof,1137
+female,24,Master,3691
+male,48,Prof,1252
+male,53,Prof,3460
+male,53,Prof,3577
+female,58,Associate Prof,2761
+female,55,Associate Prof,1128
+female,50,Prof,1020
+male,37,PhD,1020
+female,27,Master,2646
+male,51,Prof,1252
+male,27,Master,2297
+male,22,Bacholar,1134
+female,18,School,3577
+female,44,Assistant Prof,1369
+female,62,Associate Prof,2646
+male,49,Prof,1484
+female,43,Assistant Prof,2529
+male,22,Bacholar,2646
+male,27,Master,1134
+male,22,Bacholar,1126
+female,55,Associate Prof,1252
+female,27,Master,1366
+female,30,Master,2297
+male,46,Prof,2182
+female,18,School,2646
+male,57,Associate Prof,4041
+male,29,Master,2065
+male,19,Bacholar,3806
+female,35,PhD,2065
+female,44,Assistant Prof,1252
+female,38,PhD,2529
+male,37,PhD,1718
+female,39,PhD,3809
+male,47,Prof,1716
+male,42,Assistant Prof,3574
+male,52,Prof,2297
+female,28,Master,1598
+female,33,Master,2174
+female,20,Bacholar,2297
+male,23,Bacholar,553
+female,21,Bacholar,1598
+male,33,Master,2878
+male,28,Master,1484
+male,18,School,1017
+female,54,Prof,788
+female,50,Prof,2878
+female,50,Prof,3225
+male,48,Prof,1020
+female,34,Master,2878
+male,37,PhD,3577
+male,27,Master,1020
+male,22,Bacholar,2881
+female,51,Prof,788
+female,26,Master,1716
+female,30,Master,4505
+male,45,Assistant Prof,2878
+female,58,Associate Prof,779
+male,55,Associate Prof,1948
+male,24,Master,3228
+male,62,Associate Prof,3228
+female,45,Assistant Prof,2065
+female,51,Prof,3228
+female,49,Prof,1833
+male,64,Associate Prof,2065
+female,55,Associate Prof,1948
+male,20,Bacholar,1484
+male,20,Bacholar,1484
+male,31,Master,2065
+female,23,Bacholar,3228
+female,31,Master,2065
+female,28,Master,1128
+male,51,Prof,2174
+female,44,Assistant Prof,5550
+male,30,Master,1366
+male,63,Associate Prof,3577
+male,45,Assistant Prof,902
+female,43,Assistant Prof,553
+female,53,Prof,1475
+female,42,Assistant Prof,1134
+male,62,Associate Prof,4038
+female,54,Prof,1601
+male,46,Prof,1252
+male,25,Master,1252
+male,62,Associate Prof,1369
+female,30,Master,1020
+female,32,Master,1716
+female,30,Master,1484
+male,51,Prof,1833
+female,46,Prof,1134
+male,34,Master,2411
+male,37,PhD,2406
+male,59,Associate Prof,1598
+female,51,Prof,1011
+female,29,Master,1134
+female,38,PhD,1948
+male,57,Associate Prof,2875
+female,38,PhD,3923
+male,31,Master,1716
+male,31,Master,2996
+male,32,Master,4041
+female,34,Master,1243
+female,41,Assistant Prof,3228
+female,54,Prof,3113
+male,58,Associate Prof,1369
+female,19,Bacholar,785
+male,54,Prof,1710
+male,44,Assistant Prof,1020
+male,42,Assistant Prof,2646
+female,37,PhD,2414
+female,42,Assistant Prof,1011
+female,29,Master,2646
+male,41,Assistant Prof,2996
+female,40,Assistant Prof,1128
+male,43,Assistant Prof,4273
+male,58,Associate Prof,2179
+male,60,Associate Prof,785
+female,30,Master,1942
+female,62,Associate Prof,3923
+female,55,Associate Prof,902
+male,19,Bacholar,1252
+female,52,Prof,2411
+male,40,Assistant Prof,4038
+male,20,Bacholar,779
+male,26,Master,2529
+female,29,Master,3342
+female,51,Prof,2996
+female,38,PhD,2643
+male,59,Associate Prof,4622
+female,55,Associate Prof,1948
+male,48,Prof,2414
+male,53,Prof,785
+male,57,Associate Prof,2297
+female,25,Master,3809
+female,28,Master,902
+female,62,Associate Prof,2764
+male,37,PhD,4972
+female,37,PhD,3577
+male,50,Prof,1833
+male,49,Prof,3228
+male,46,Prof,4273
+female,52,Prof,1833
+female,30,Master,1134
+female,50,Prof,2996
+male,51,Prof,1601
+female,50,Prof,2065
+male,41,Assistant Prof,1833
+male,30,Master,1369
+male,34,Master,1017
+female,22,Bacholar,1948
+female,19,Bacholar,2993
+female,62,Associate Prof,670
+male,29,Master,2179
+female,33,Master,2646
+male,19,Bacholar,2646
+male,40,Assistant Prof,3460
+male,44,Assistant Prof,1134
+female,61,Associate Prof,1020
+female,28,Master,902
+female,60,Associate Prof,1369
+male,34,Master,1252
+female,45,Assistant Prof,2646
+male,62,Associate Prof,2297
+male,32,Master,1950
+male,48,Prof,902
+female,41,Assistant Prof,779
+female,29,Master,1366
+female,64,Associate Prof,2878
+male,30,Master,2065
+female,61,Associate Prof,1833
+male,57,Associate Prof,2643
+male,26,Master,2297
+male,64,Associate Prof,1017
+female,25,Master,3923
+female,26,Master,2529
+female,42,Assistant Prof,785
+male,61,Associate Prof,3228
+female,25,Master,2529
+male,28,Master,1948
+male,23,Bacholar,2414
+male,52,Prof,4041
+female,46,Prof,1601
+female,54,Prof,3228
+female,63,Associate Prof,665
+male,32,Master,2065
+female,54,Prof,670
+male,50,Prof,1601
+male,62,Associate Prof,553
+male,36,PhD,1369
+female,33,Master,2297
+female,32,Master,3460
+female,60,Associate Prof,1369
+male,26,Master,2643
+female,54,Prof,670
+male,51,Prof,1243
+male,46,Prof,1601
+male,49,Prof,2300
+female,48,Prof,1243
+female,28,Master,3110
+female,36,PhD,1833
+male,33,Master,3345
+female,37,PhD,2996
+male,28,Master,3342
+male,22,Bacholar,4273
+male,24,Master,1369
+female,27,Master,2646
+female,20,Bacholar,4041
+female,40,Assistant Prof,2065
+male,33,Master,4854
+female,53,Prof,2529
+male,63,Associate Prof,1833
+male,33,Master,902
+male,38,PhD,2646
+female,28,Master,2761
+female,52,Prof,1360
+female,56,Associate Prof,2764
+male,35,PhD,2414
+female,35,PhD,662
+male,48,Prof,2996
+male,41,Assistant Prof,1833
+male,21,Bacholar,2297
+female,39,PhD,2878
+female,47,Prof,670
+female,35,PhD,1950
+male,41,Assistant Prof,788
+female,41,Assistant Prof,2174
+male,57,Associate Prof,2996
+male,21,Bacholar,785
+male,24,Master,2297
+female,49,Prof,1718
+female,53,Prof,1716
+female,52,Prof,3691
+male,60,Associate Prof,1252
+female,25,Master,2065
+male,49,Prof,1020
+male,39,PhD,2529
+male,23,Bacholar,4041
+female,37,PhD,2532
+female,31,Master,1601
+female,29,Master,3345
+male,61,Associate Prof,902
+female,52,Prof,1950
+male,34,Master,1833
+male,26,Master,1360
+male,20,Bacholar,902
+female,59,Associate Prof,1252
+female,35,PhD,3923
+female,37,PhD,2646
+male,18,School,1833
+female,35,PhD,1369
+male,60,Associate Prof,1252
+male,31,Master,1366
+male,25,Master,1366
+female,39,PhD,1833
+female,50,Prof,2414
+female,40,Assistant Prof,779
+male,58,Associate Prof,3345
+female,18,School,3923
+male,40,Assistant Prof,2646
+male,40,Assistant Prof,1484
+male,42,Assistant Prof,2065
+female,42,Assistant Prof,2878
+female,25,Master,2878
+female,53,Prof,2182
+male,40,Assistant Prof,2414
+female,62,Associate Prof,3923
+male,35,PhD,4273
+male,62,Associate Prof,1484
+male,38,PhD,2065
+female,50,Prof,3345
+female,51,Prof,3460
+female,28,Master,2646
+male,58,Associate Prof,2646
+female,18,School,4505
+male,44,Assistant Prof,2065
+male,37,PhD,3345
+male,51,Prof,2065
+female,27,Master,1020
+female,50,Prof,779
+female,62,Associate Prof,3110
+male,36,PhD,1484
+female,33,Master,3691
+male,60,Associate Prof,902
+male,35,PhD,2065
+male,45,Assistant Prof,3345
+female,61,Associate Prof,2414
+female,60,Associate Prof,2414
+female,46,Prof,3342
+male,61,Associate Prof,4041
+female,34,Master,3460
+male,28,Master,1243
+male,47,Prof,2761
+male,32,Master,788
+female,27,Master,1366
+female,28,Master,1369
+female,51,Prof,2646
+male,62,Associate Prof,2300
+female,41,Assistant Prof,1478
+male,47,Prof,1020
+male,52,Prof,3345
+male,61,Associate Prof,3228
+female,39,PhD,3460
+female,41,Assistant Prof,2643
+female,40,Assistant Prof,1020
+male,63,Associate Prof,1252
+female,27,Master,2297
+male,31,Master,2182
+male,33,Master,2646
+male,61,Associate Prof,1252
+female,41,Assistant Prof,2065
+female,18,School,1128
+female,46,Prof,894
+male,32,Master,894
+female,32,Master,4158
+male,58,Associate Prof,1833
+male,59,Associate Prof,2764
+male,45,Assistant Prof,1020
+female,36,PhD,2643
+female,42,Assistant Prof,1134
+female,54,Prof,1134
+male,26,Master,4505
+female,35,PhD,4158
+male,22,Bacholar,3342
+male,43,Assistant Prof,1134
+male,44,Assistant Prof,1134
+female,41,Assistant Prof,662
+female,30,Master,2993
+female,33,Master,1601
+male,63,Associate Prof,2414
+female,47,Prof,1950
+male,22,Bacholar,2993
+male,48,Prof,1716
+male,57,Associate Prof,2646
+female,55,Associate Prof,1833
+female,47,Prof,1598
+female,42,Assistant Prof,2529
+male,40,Assistant Prof,1948
+female,21,Bacholar,2761
+male,19,Bacholar,1948
+male,18,School,1246
+male,36,PhD,1249
+female,48,Prof,779
+female,42,Assistant Prof,3574
+female,30,Master,662
+male,32,Master,1592
+female,30,Master,3574
+male,30,Master,5435
+male,44,Assistant Prof,2878
+male,30,Master,785
+female,47,Prof,3345
+female,28,Master,1484
+female,33,Master,3228
+male,34,Master,3460
+female,26,Master,1243
+male,39,PhD,662
+male,25,Master,2646
+male,44,Assistant Prof,1950
+female,55,Associate Prof,1484
+female,18,School,1360
+female,49,Prof,2414
+male,57,Associate Prof,1716
+female,30,Master,4622
+male,33,Master,2761
+male,59,Associate Prof,2529
+male,48,Prof,2056
+female,42,Assistant Prof,2532
+female,39,PhD,2646
+female,50,Prof,3923
+male,31,Master,1017
+female,28,Master,3577
+male,56,Associate Prof,2878
+male,46,Prof,3577
+male,38,PhD,1366
+female,35,PhD,1252
+female,25,Master,553
+female,35,PhD,902
+male,21,Bacholar,553
+female,59,Associate Prof,2646
+male,24,Master,2761
+male,64,Associate Prof,2878
+male,19,Bacholar,3225
+female,45,Assistant Prof,4390
+female,19,Bacholar,1484
+female,38,PhD,1252
+male,25,Master,4390
+female,26,Master,1484
+male,64,Associate Prof,2529
+male,43,Assistant Prof,670
+male,22,Bacholar,1948
+female,32,Master,3228
+female,57,Associate Prof,662
+female,57,Associate Prof,1011
+male,34,Master,2179
+female,56,Associate Prof,553
+male,44,Assistant Prof,2646
+male,26,Master,2764
+male,58,Associate Prof,1484
+female,39,PhD,2878
+female,25,Master,2646
+female,59,Associate Prof,3691
+male,24,Master,3345
+female,48,Prof,2414
+male,49,Prof,1252
+male,25,Master,3228
+male,26,Master,785
+female,54,Prof,2414
+female,24,Master,2414
+female,54,Prof,3691
+male,41,Assistant Prof,3342
+female,54,Prof,662
+male,46,Prof,1243
+male,56,Associate Prof,1833
+male,18,School,779
+female,26,Master,5435
+female,31,Master,2878
+female,55,Associate Prof,1484
+male,45,Assistant Prof,788
+female,59,Associate Prof,2996
+male,36,PhD,1716
+male,19,Bacholar,4508
+male,60,Associate Prof,3809
+female,31,Master,1833
+female,23,Bacholar,3574
+female,39,PhD,2529
+male,55,Associate Prof,1011
+female,29,Master,4038
+male,57,Associate Prof,779
+male,38,PhD,1598
+male,46,Prof,3460
+female,54,Prof,2179
+female,61,Associate Prof,2065
+female,43,Assistant Prof,2764
+male,32,Master,4041
+female,62,Associate Prof,1252
+male,39,PhD,1484
+male,45,Assistant Prof,1252
+male,36,PhD,1020
+female,33,Master,1243
+female,56,Associate Prof,3342
+female,47,Prof,902
+male,64,Associate Prof,5204
+female,43,Assistant Prof,1484
+male,20,Bacholar,3110
+male,59,Associate Prof,779
+male,61,Associate Prof,902
+female,18,School,2764
+female,58,Associate Prof,2297
+female,31,Master,1369
+male,50,Prof,4622
+female,29,Master,2065
+male,32,Master,894
+male,52,Prof,2179
+male,27,Master,2414
+female,50,Prof,2297
+female,60,Associate Prof,1484
+female,44,Assistant Prof,1134
+male,20,Bacholar,1366
+female,38,PhD,3809
+male,30,Master,3342
+male,56,Associate Prof,2297
+male,52,Prof,1833
+female,33,Master,2996
+female,21,Bacholar,667
+female,49,Prof,4158
+male,56,Associate Prof,2414
+female,64,Associate Prof,788
